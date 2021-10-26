@@ -34,7 +34,7 @@ Day-1:
           4 4 4 4             * * * *
       i.) WAP to demonstrate the use of different methods of Math Class.
      ----------------------------------------------------------------------------------------------------------------------
-      GO TO ASSIGNMENT1 and find the related files: 
+      GO TO ASSIGNMENT_1 and find the related files: 
         a.) welcome.java
         b.) commandline.java 
         c.) sdp.java
@@ -46,6 +46,20 @@ Day-1:
         i.) math.java
 ----------------------------------------------------------------------------------------------------------------------------
 
+Day-2: 
+    An Introduction to Classes and Objects
+
+    a.) Create a Box class and add method called set Data () to initialised the data member. Add
+     another method that will return volume of the Box. Using a Demo class to demonstrate by
+     creating two box objects and find which box having bigger size.
+    b.) Create a class called Bank_Account with following data member and member function
+     i) Account_Holder_Name, Account_Number, Account_Type(S for savings, C for current),
+     balance
+     ii) withdraw_money() and deposit_money() with proper prototype.
+     ----------------------------------------------------------------------------------------------------------------------
+     GO TO ASSIGNMENT_2 and find the related files:
+     a.) Question1 for Box Class
+     b.) Question2 for Bank Class 
 
 
 
