@@ -1,7 +1,7 @@
 
 # OOPS LABORATORY WORK
 
-In this repository it contains my all java coded programs which are done in my college lab from basic to advanced.
+In this repository it contains my all java programs(object oriented) which are done in my college laboratory.
 
 # Clone
 
